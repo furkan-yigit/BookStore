@@ -31,8 +31,4 @@ Bu uygulama, kullanıcıların kitapları yönetmelerine olanak tanır. Kullanı
 - **Backend Geliştirme:** Node.js ve Express.js kullanılarak yapıldı.
 - **Geliştirme Süreci:** Yeni özellikler eklemeye ve performansı artırmaya devam ediyoruz.
 
-## Katkıda Bulunma
-
-- Proje açık kaynaklıdır
-
 
